@@ -1,0 +1,71 @@
+<!-- Client Logos
+        <div class="mt-20">
+          <p class="text-center text-gray-500 mb-8">
+            Trusted by leading companies worldwide
+          </p>
+          <div
+            class="flex flex-wrap justify-center items-center gap-8 md:gap-16"
+          >
+            <div
+              class="w-24 h-12 flex items-center justify-center grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all"
+            >
+              <div class="text-gray-400 font-semibold">COMPANY A</div>
+            </div>
+            <div
+              class="w-24 h-12 flex items-center justify-center grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all"
+            >
+              <div class="text-gray-400 font-semibold">COMPANY B</div>
+            </div>
+            <div
+              class="w-24 h-12 flex items-center justify-center grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all"
+            >
+              <div class="text-gray-400 font-semibold">COMPANY C</div>
+            </div>
+            <div
+              class="w-24 h-12 flex items-center justify-center grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all"
+            >
+              <div class="text-gray-400 font-semibold">COMPANY D</div>
+            </div>
+            <div
+              class="w-24 h-12 flex items-center justify-center grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all"
+            >
+              <div class="text-gray-400 font-semibold">COMPANY E</div>
+            </div>
+         </div>
+        </div> -->
+
+
+        <!-- Portfolio Filter -->
+        <div class="flex flex-wrap justify-center gap-2 mb-10">
+          <button
+            class="bg-primary text-white px-4 py-2 !rounded-full whitespace-nowrap"
+          >
+            All Projects
+          </button>
+          <button
+            class="bg-gray-100 text-gray-700 px-4 py-2 !rounded-full whitespace-nowrap hover:bg-gray-200"
+          >
+            IT Solutions
+          </button>
+          <button
+            class="bg-gray-100 text-gray-700 px-4 py-2 !rounded-full whitespace-nowrap hover:bg-gray-200"
+          >
+            Interior Design
+          </button>
+          <button
+            class="bg-gray-100 text-gray-700 px-4 py-2 !rounded-full whitespace-nowrap hover:bg-gray-200"
+          >
+            Digital Marketing
+          </button>
+        </div>
+
+
+        <!-- <a
+              href="/Assets/img/logos/Logo.png"
+              class="text-2xl font-['Pacifico'] text-primary"
+              >Makjuz</a
+            > -->
+
+            <!-- <span class="text-2xl font-['Pacifico'] text-primary"
+                >Makjuz</span
+              > -->
